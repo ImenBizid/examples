@@ -50,9 +50,6 @@
            "request": {
               "type": "keyword"
            }
-        },
-        "_all": {
-           "enabled": true
         }
      }
   }
